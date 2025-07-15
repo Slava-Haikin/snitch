@@ -1,0 +1,2 @@
+class UptimeRecord < ApplicationRecord
+end
